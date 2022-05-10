@@ -89,7 +89,7 @@ To install and test the project, follow these steps:
 
 1. You need to download this repository and import the project into your IDE.
 2. Download and import the JADE and Weka libraries for Java into your project.
-3. Configure the execution of the project, for this in our ide we must specify that the main class of the project is `jade.Boot`. In addition to configure each one of the agents of our MAS it is necessary to include the following arguments to our execution, `-gui UserAgent:en.upm.si.intelligentMASPlatform.UserAgent;TrainAgent:en.upm.si.intelligentMASPlatform.TrainAgent;PredictAgent:en.upm.si.intelligentMASPlatform.PredictAgent;ResultsAgent:en.upm.si.intelligentMASPlatform.ResultsAgent`.
+3. Configure the execution of the project, for this in our ide we must specify that the main class of the project is `jade.Boot`. In addition to configure each one of the agents of our MAS it is necessary to include the following arguments to our execution, `-gui UserAgent:es.upm.si.intelligentMASPlatform.UserAgent;TrainAgent:es.upm.si.intelligentMASPlatform.TrainAgent;PredictAgent:es.upm.si.intelligentMASPlatform.PredictAgent;ResultsAgent:es.upm.si.intelligentMASPlatform.ResultsAgent`.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
