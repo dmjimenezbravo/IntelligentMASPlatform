@@ -161,7 +161,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 Diego M. Jiménez Bravo - [@dmjimenezbravo](https://twitter.com/dmjimenezbravo) - dmjimenezbravo@gmail.com
 
-Project Link: [https://github.com/dmjimenezbravo/NetLogoExampleModification](https://github.com/dmjimenezbravo/NetLogoExampleModification)
+Project Link: [https://github.com/dmjimenezbravo/IntelligentMASPlatform](https://github.com/dmjimenezbravo/IntelligentMASPlatform)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
