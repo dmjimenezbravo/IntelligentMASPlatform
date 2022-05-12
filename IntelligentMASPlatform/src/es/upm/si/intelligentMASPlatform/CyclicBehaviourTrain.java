@@ -37,7 +37,7 @@ public class CyclicBehaviourTrain extends CyclicBehaviour{
 			}		
 		}
 		catch (Exception e) {
-			//e.printStackTrace();
+			e.printStackTrace();
 		}
 	}
 	
@@ -68,7 +68,7 @@ public class CyclicBehaviourTrain extends CyclicBehaviour{
 			msg.addReceiver(new AID("PredictAgent", AID.ISLOCALNAME));
 			this.myAgent.send(msg);	
 		} catch (Exception e) {
-			//e.printStackTrace();
+			e.printStackTrace();
 		}
 	}
 }
